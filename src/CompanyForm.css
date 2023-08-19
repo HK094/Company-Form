@@ -1,0 +1,66 @@
+
+
+.companyForm {
+    margin-top: 0%;
+    margin-left: 12.5%;
+    padding: 2%;
+    background-color: rgb(236, 218, 236);
+    border: 10px solid black;
+    width: 75%;
+    
+  }
+  
+  .formContainer {
+    padding-left: 10%; 
+    padding-bottom: 5%;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 30px;
+    color:#4caf50
+  }
+  
+  .companyname {
+    width: 95.5%;
+   padding: 12px 20px;
+   margin: 8px 0;
+  
+  
+  }
+  
+  .companytype {
+    margin-bottom: 1%;
+    width: 100%; 
+  }
+  
+  .gstnumber {
+    width: 95.5%;
+    padding: 12px 20px;
+    margin: 8px 0;
+  }
+  
+  .pannumber {
+    width: 95.5%;
+    padding: 12px 20px;
+    margin: 8px 0;
+  }
+  
+  
+  
+  .company-services {
+    width: 50%; 
+  }
+  
+  button {
+    background-color: #4caf50;
+    margin-top: 2%;
+    color: white;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 12px;
+    width: 20%;
+  }
+  
